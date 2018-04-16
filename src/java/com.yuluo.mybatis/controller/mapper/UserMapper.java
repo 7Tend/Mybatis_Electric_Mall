@@ -1,4 +1,4 @@
-package mapper;
+package controller.mapper;
 
 import po.User;
 

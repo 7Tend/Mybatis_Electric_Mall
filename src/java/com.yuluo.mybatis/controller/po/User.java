@@ -1,4 +1,4 @@
-package po;
+package controller.po;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package dao;
+package controller.dao;
 
 import po.User;
 import java.io.Serializable;

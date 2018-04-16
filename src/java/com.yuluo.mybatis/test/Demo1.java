@@ -3,10 +3,7 @@ package test;
 import dao.UserDao;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.stereotype.Service;
 import po.User;
-
-import java.applet.AppletContext;
 
 
 public class Demo1 {
