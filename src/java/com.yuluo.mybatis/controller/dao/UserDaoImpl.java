@@ -1,9 +1,8 @@
 package controller.dao;
 
+import controller.po.User;
 import org.apache.ibatis.session.SqlSession;
 import org.mybatis.spring.support.SqlSessionDaoSupport;
-
-import controller.po.User;
 import java.util.List;
 
 
