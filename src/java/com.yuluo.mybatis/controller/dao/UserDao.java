@@ -1,6 +1,8 @@
 package controller.dao;
 
-import po.User;
+
+import controller.po.User;
+
 import java.io.Serializable;
 import java.util.List;
 

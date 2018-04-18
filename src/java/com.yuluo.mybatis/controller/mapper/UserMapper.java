@@ -1,6 +1,7 @@
 package controller.mapper;
 
-import po.User;
+import controller.po.User;
+
 
 public interface UserMapper {
     int deleteByPrimaryKey(Integer userid);
