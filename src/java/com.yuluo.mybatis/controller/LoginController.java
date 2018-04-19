@@ -1,7 +1,6 @@
 package controller;
 
 
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -15,6 +14,8 @@ public class LoginController {
     {
         //调用service校验用户帐号和密码的正确性
         //这个东西我们讲shiro的时候再写
+
+
 
         //如果service校验通过，将用户身份记录到session
         session.setAttribute("usercode",usercode);

@@ -1,11 +1,10 @@
-package controller.test;
+package test;
 
 import controller.dao.UserDao;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import controller.po.User;
-
 
 
 
