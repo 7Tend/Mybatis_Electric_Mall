@@ -1,13 +1,11 @@
-package controller.test;
+package test;
 
 import controller.dao.UserDao;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-<<<<<<< HEAD:src/java/com.yuluo.mybatis/controller/test/Demo1.java
+
 import controller.po.User;
-=======
-import po.User;
->>>>>>> feature/Add_LoginController:src/java/com.yuluo.mybatis/test/Demo1.java
+
 
 
 public class Demo1 {
