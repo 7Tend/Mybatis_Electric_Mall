@@ -1,6 +1,6 @@
 package test;
 
-import controller.dao.UserDao;
+import controller.service.userService;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
@@ -17,7 +17,7 @@ public class Demo1Test {
 
     @Test
     public void findUserById() {
-        UserDao userDao = (UserDao)applicationContext.getBean("userDao");
+        userService userDao = (userService)applicationContext.getBean("userDao");
         User user = userDao.getEmployeeId(1);
         System.out.println(user);
     }

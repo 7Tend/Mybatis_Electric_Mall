@@ -1,6 +1,6 @@
 package test;
 
-import controller.dao.UserDao;
+import controller.service.userService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -18,7 +18,7 @@ public class Demo1 {
     }
 
     public void FindUserById() throws Exception {
-        UserDao userDao = (UserDao)applicationContext.getBean("userDao");
+        userService userDao = (userService)applicationContext.getBean("userDao");
         User user = userDao.getEmployeeId(1);
     }
 
