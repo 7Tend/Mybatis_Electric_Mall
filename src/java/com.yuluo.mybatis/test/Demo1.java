@@ -1,6 +1,6 @@
 package test;
 
-import controller.dao.UserDao;
+import controller.service.UserDao;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

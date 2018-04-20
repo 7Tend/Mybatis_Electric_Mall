@@ -1,6 +1,6 @@
 package test;
 
-import controller.dao.UserDao;
+import controller.service.UserDao;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;

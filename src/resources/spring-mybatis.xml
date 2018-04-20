@@ -51,7 +51,7 @@
     </bean>
 
     <!--配置dao -->
-    <bean id="userDao" class="controller.dao.UserDaoImpl">
+    <bean id="userDao" class="controller.service.impl.UserDaoImpl">
         <property name="sqlSessionFactory" ref="sqlSessionFactory"/>
     </bean>
 
