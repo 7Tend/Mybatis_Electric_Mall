@@ -6,23 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4be6a7-80a8-48dc-bee9-d2d8146683e2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/test/test/Demo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/test/test/Demo1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/application-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/dao/UserDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Demo1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/Demo1Test.class" afterDir="false" />
-    </list>
+    <list default="true" id="4f4be6a7-80a8-48dc-bee9-d2d8146683e2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,18 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,20 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext-transaction.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="356">
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -682,7 +645,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38250000" />
+    <option name="totallyTimeSpent" value="38288000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -694,12 +657,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5127932" side_tool="true" visible="true" weight="0.35986915" />
-      <window_info anchor="bottom" id="Application Servers" order="23" sideWeight="0.4989339" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Application Servers" order="23" sideWeight="0.49840087" visible="true" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="17" visible="true" weight="0.20842217" />
       <window_info anchor="right" id="CDI" order="20" />
       <window_info anchor="bottom" id="Database Changes" order="21" show_stripe_button="false" />
@@ -717,21 +679,51 @@
       <window_info id="Image Layers" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="23" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.48720682" visible="true" weight="0.35986915" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48720682" weight="0.35986915" />
       <window_info anchor="bottom" id="Version Control" order="19" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="bottom" id="Spring" order="18" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="17" sideWeight="0.49520257" weight="0.3293348" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24786781" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24786781" />
       <window_info anchor="right" id="Bean Validation" order="21" />
       <window_info id="Web" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.32388222" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info id="Favorites" order="9" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.48720682" visible="true" weight="0.35986915" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5127932" side_tool="true" visible="true" weight="0.35986915" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24786781" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info id="Favorites" order="9" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="23" sideWeight="0.49946696" weight="0.3293348" />
+      <window_info anchor="bottom" id="Application Servers" order="23" sideWeight="0.4989339" weight="0.3293348" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="14" />
+      <window_info anchor="right" id="Palette&#9;" order="15" />
+      <window_info anchor="right" id="Maven Projects" order="17" visible="true" weight="0.20842217" />
+      <window_info id="Web" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="18" sideWeight="0.4989339" weight="0.3293348" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info id="Image Layers" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="21" />
+      <window_info anchor="right" id="Database" order="18" weight="0.32995737" />
+      <window_info id="Capture Tool" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="19" sideWeight="0.49946696" weight="0.3293348" />
+      <window_info anchor="right" id="CDI" order="20" />
+      <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49733475" weight="0.3293348" />
+      <window_info anchor="right" id="JSF" order="19" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info id="UI Designer" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="17" sideWeight="0.49520257" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4978678" weight="0.38152173" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49573562" weight="0.3293348" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.32388222" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Designer" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -741,6 +733,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -804,9 +803,6 @@
           <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -999,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="356">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1012,7 +1008,7 @@
           <artifact-editor>
             <show-sorted>false</show-sorted>
           </artifact-editor>
-          <last-edited>mybatis:war exploded</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1072,7 +1068,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.sun.mail:javax.mail:1.5.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
