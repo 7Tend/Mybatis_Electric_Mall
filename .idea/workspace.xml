@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mybatis:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f4be6a7-80a8-48dc-bee9-d2d8146683e2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java/test/test/Demo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/test/test/Demo1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/application-transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/dao/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Demo1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/Demo1Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,11 +75,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="userService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-transaction.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -72,8 +108,8 @@
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="309">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -133,14 +169,18 @@
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/mybatis/SqlMapConfig.xml" />
-        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/db.properties" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.fxml" />
-        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/resources/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/log4j.properties" />
         <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/application-transaction.xml" />
+        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/db.properties" />
+        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java" />
+        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" />
       </list>
     </option>
   </component>
@@ -205,11 +245,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="279" />
-    <option name="y" value="42" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="644" />
+    <option name="y" value="66" />
     <option name="width" value="1400" />
-    <option name="height" value="1059" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -319,6 +359,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.yuluo.mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Electric_Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Electric_Mall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.yuluo.mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
               <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -335,12 +385,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mybatis_Electric_Mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mybatis_Electric_Mall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mybatis_Electric_Mall" type="b2602c69:ProjectViewProjectNode" />
@@ -381,7 +425,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm_new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -392,21 +436,21 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="test" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitrepo\Mybatis_Electric_Mall\src\java\com.yuluo.mybatis\controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\gitrepo\Mybatis_Electric_Mall\src\webapp\WEB-INF" />
       <recent name="E:\gitrepo\Mybatis_Electric_Mall\src\webapp\WEB-INF\jsp" />
       <recent name="E:\gitrepo\Mybatis_Electric_Mall\src\java\com.yuluo.mybatis\controller" />
       <recent name="E:\spring\mybatis\src" />
       <recent name="E:\spring\mybatis" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\gitrepo\Mybatis_Electric_Mall\src\java\com.yuluo.mybatis\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,7 +465,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.tomcat8.5">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -489,6 +533,78 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="tomcat8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/mybatis/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mybatis" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Mybatis_Electric_Mall" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52603" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mybatis:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -502,6 +618,10 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat8.5" />
+      <item itemvalue="JUnit.Demo1Test" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Demo1Test" />
@@ -525,6 +645,7 @@
       <workItem from="1522456797721" duration="18000" />
       <workItem from="1523764311524" duration="5012000" />
       <workItem from="1524032453050" duration="1222000" />
+      <workItem from="1524191676303" duration="1662000" />
     </task>
     <servers />
   </component>
@@ -561,7 +682,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31888000" />
+    <option name="totallyTimeSpent" value="38250000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -573,7 +694,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="14" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5127932" side_tool="true" visible="true" weight="0.35986915" />
@@ -595,50 +717,21 @@
       <window_info id="Image Layers" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="23" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48720682" visible="true" weight="0.35986915" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.48720682" visible="true" weight="0.35986915" />
       <window_info anchor="bottom" id="Version Control" order="19" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="bottom" id="Spring" order="18" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="17" sideWeight="0.49520257" weight="0.3293348" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24786781" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24786781" />
       <window_info anchor="right" id="Bean Validation" order="21" />
       <window_info id="Web" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.32388222" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info id="Favorites" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48880598" weight="0.35986915" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5101279" side_tool="true" visible="true" weight="0.34460196" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24786781" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.20842217" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="CDI" order="8" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978678" weight="0.32934782" />
-      <window_info anchor="right" id="JSF" order="5" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49573562" weight="0.32934782" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.38152173" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49701494" weight="0.32990867" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49701494" weight="0.3280363" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,28 +743,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml" />
     <entry file="file://$PROJECT_DIR$/src/resources/SqlMapConfig.xml" />
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
@@ -685,13 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml" />
     <entry file="file://$PROJECT_DIR$/src/webapp/index.jsp" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -701,13 +775,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/jdbc.properties" />
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,19 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,13 +806,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -767,9 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,16 +829,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml" />
     <entry file="file://$PROJECT_DIR$/src/resources/SqlMapConfig.xml" />
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
@@ -806,24 +849,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/jdbc.properties" />
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/webapp/index.jsp" />
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/po/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,13 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="125" column="36" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -873,9 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,30 +903,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="167">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -917,24 +928,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/mybatis/SqlMapConfig.xml">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-dao.xml">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -945,22 +949,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/test/test/Demo1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="836">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/application-transaction.xml">
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/mybatis/SqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/test/test/Demo1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -972,7 +1012,7 @@
           <artifact-editor>
             <show-sorted>false</show-sorted>
           </artifact-editor>
-          <last-edited>mybatis:war exploded</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1020,12 +1060,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mybatis</last-edited>
+          <last-edited>Spring|mybatis</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1033,7 +1072,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.sun.mail:javax.mail:1.5.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
