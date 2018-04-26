@@ -7,150 +7,153 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f4be6a7-80a8-48dc-bee9-d2d8146683e2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mybatis_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mybatis_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jdmk_jmxtools_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jmx_jmxri_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jms_jms_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_9_rc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/springmvcMybist/ssm.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/MySqlSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/mybatis/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/applicationContext-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/config/spring/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/interceptor/LoginInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/po/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/userService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/sql/sql_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/sql/sql_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.yuluo.mybatis/test/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/test/test/Demo1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MySqlSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/mybatis/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/applicationContext-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/applicationContext-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/spring/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/po/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/service/impl/userServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/service/userService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/sql/sql_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/sql/sql_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/MySqlSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/mybatis/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/spring/applicationContext-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/spring/applicationContext-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/config/spring/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/po/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/service/impl/userServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/service/userService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/sql/sql_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/controller/sql/sql_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/classes/test/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/log4j-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/mail-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/mybatis-3.2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/mysql-connector-java-8.0.9-rc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-context-support-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-oxm-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mybatis/WEB-INF/lib/spring-webmvc-4.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Demo1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dudu/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dudu/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dudu/config/MyWebMvcConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dudu/config/MyWebMvcConfigurerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dudu/domain/LearnResouce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dudu/domain/LearnResouce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/resources/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/my/elephant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/resources/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jq22.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/owl-login-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/owl-login-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/owl-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/owl-login@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ph-owl-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ph-owl-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ph-owl-arml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ph-owl-arml@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/signup-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/signup-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/resources/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/config/MyWebMvcConfigurerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/controller/LearnController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/domain/LearnResouce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dudu/interceptor/MyInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/my/elephant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/jq22.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/owl-login-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/owl-login-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/owl-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/owl-login@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ph-owl-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ph-owl-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ph-owl-arml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ph-owl-arml@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/signup-arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/signup-arm@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dudu/DemoApplicationTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -180,8 +183,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="456">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -189,17 +192,17 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="741">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LearnController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LearnController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="52" column="98" lean-forward="true" selection-start-line="52" selection-start-column="98" selection-end-line="52" selection-end-column="99" />
+            <state relative-caret-position="285">
+              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -208,16 +211,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/domain/LearnResouce.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="371">
-              <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyInterceptor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyInterceptor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/interceptor/MyInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="266">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1017">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -225,8 +237,8 @@
       <file leaf-file-name="MyWebMvcConfigurerAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/config/MyWebMvcConfigurerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="49" column="104" selection-start-line="49" selection-start-column="104" selection-end-line="49" selection-end-column="104" />
+            <state relative-caret-position="817">
+              <caret line="55" column="104" selection-start-line="55" selection-start-column="104" selection-end-line="55" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -235,7 +247,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -347,9 +359,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="147" />
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="476" />
+    <option name="y" value="52" />
     <option name="width" value="1400" />
     <option name="height" value="1059" />
   </component>
@@ -799,7 +811,7 @@
       <workItem from="1524394214441" duration="365000" />
       <workItem from="1524466076357" duration="1339000" />
       <workItem from="1524703455573" duration="990000" />
-      <workItem from="1524704682643" duration="282000" />
+      <workItem from="1524704682643" duration="783000" />
     </task>
     <servers />
   </component>
@@ -836,7 +848,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45774000" />
+    <option name="totallyTimeSpent" value="46275000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -849,7 +861,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="14" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5165245" side_tool="true" visible="true" weight="0.35986915" />
@@ -867,17 +878,16 @@
       <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49573562" weight="0.3293348" />
       <window_info anchor="right" id="Palette&#9;" order="15" />
       <window_info id="Image Layers" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="23" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48347548" visible="true" weight="0.35986915" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48347548" weight="0.35986915" />
       <window_info anchor="bottom" id="Version Control" order="19" sideWeight="0.49946696" weight="0.3293348" />
-      <window_info anchor="bottom" id="Spring" order="18" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="17" sideWeight="0.49520257" weight="0.3293348" />
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25586355" />
-      <window_info anchor="right" id="Bean Validation" order="21" />
       <window_info id="Web" order="10" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info id="Favorites" order="9" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="21" />
+      <window_info anchor="bottom" id="Spring" order="18" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="right" id="JSF" order="19" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -885,6 +895,7 @@
       <window_info anchor="right" id="CDI" order="20" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="23" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49626866" weight="0.32388222" />
     </layout>
   </component>
@@ -895,14 +906,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/webapp/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3496">
-          <caret line="184" column="54" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/jdbc.properties" />
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/service/impl/userServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/java/com.yuluo.mybatis/controller/po/User.java" />
@@ -953,50 +956,62 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnResourceController.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="456">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="741">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/config/MyWebMvcConfigurerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="49" column="104" selection-start-line="49" selection-start-column="104" selection-end-line="49" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="52" column="98" lean-forward="true" selection-start-line="52" selection-start-column="98" selection-end-line="52" selection-end-column="99" />
+        <state relative-caret-position="817">
+          <caret line="55" column="104" selection-start-line="55" selection-start-column="104" selection-end-line="55" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/domain/LearnResouce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/interceptor/MyInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="266">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dudu/controller/LearnController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
