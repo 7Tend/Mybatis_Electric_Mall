@@ -1,4 +1,4 @@
-package com.chen.controller;
+package com.mall.controller;
 
 import java.util.Map;
 

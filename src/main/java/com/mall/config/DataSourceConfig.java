@@ -1,4 +1,4 @@
-package com.chen.config;
+package com.mall.config;
 
 import java.util.Properties;
 
@@ -31,13 +31,13 @@ import com.alibaba.druid.pool.DruidDataSource;
  */
 @Configuration
 @EnableTransactionManagement
-@MapperScan(basePackages = { "com.chen.mapper" }, sqlSessionFactoryRef = "sqlSessionFactory")
+@MapperScan(basePackages = { "com.mall.mapper" }, sqlSessionFactoryRef = "sqlSessionFactory")
 public class DataSourceConfig {
 
 	/**
 	 * 配置数据源
 	 * 给其中一个数据源加上@Primary。因为在Spring Boot Jdbc的自动配置过程中，会对于开发者透明地使用dataSource进行一些相关配置，所以当有两个Datasource实现类时，Spring Boot将无法确定使用哪一个。
-		当我们不为@Bean指定名字时，Spring会默认使用方法名作为Bean的名字，所以下面两个数据源的名字分别为prodDataSource和devDataSource。
+		当我们不为@Bean指定名字时，Spring会默认使用方法名作为Bean的名字，所以下面数据源的名字为devDataSource。
 	 * @return
 	 */
     @Bean(name = "datasource")

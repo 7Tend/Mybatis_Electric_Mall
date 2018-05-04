@@ -1,4 +1,4 @@
-package com.chen.controller.admin;
+package com.mall.controller.admin;
 
 import java.io.UnsupportedEncodingException;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.chen.pojo.User;
-import com.chen.service.UserServiceImpl;
+import com.mall.pojo.User;
+import com.mall.service.UserServiceImpl;
 
 @Controller
 @RequestMapping("/adminUser")

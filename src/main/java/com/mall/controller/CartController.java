@@ -1,4 +1,4 @@
-package com.chen.controller;
+package com.mall.controller;
 
 import java.io.UnsupportedEncodingException;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.chen.pojo.Cart;
-import com.chen.service.CartServiceImpl;
+import com.mall.pojo.Cart;
+import com.mall.service.CartServiceImpl;
 
 @Controller
 @RequestMapping("/cart")

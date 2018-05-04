@@ -1,12 +1,12 @@
-package com.chen.service;
+package com.mall.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.chen.mapper.CartMapper;
-import com.chen.pojo.Cart;
+import com.mall.mapper.CartMapper;
+import com.mall.pojo.Cart;
 
 @Service
 public class CartServiceImpl{

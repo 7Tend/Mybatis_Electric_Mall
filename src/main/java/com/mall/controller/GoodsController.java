@@ -1,4 +1,4 @@
-package com.chen.controller;
+package com.mall.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.chen.pojo.Goods;
-import com.chen.service.GoodsServiceImpl;
+import com.mall.pojo.Goods;
+import com.mall.service.GoodsServiceImpl;
 
 /**
  * 

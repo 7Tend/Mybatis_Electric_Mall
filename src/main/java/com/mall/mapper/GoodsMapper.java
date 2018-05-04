@@ -1,8 +1,8 @@
-package com.chen.mapper;
+package com.mall.mapper;
 
 import java.util.List;
 
-import com.chen.pojo.Goods;
+import com.mall.pojo.Goods;
 
 public interface GoodsMapper {
 

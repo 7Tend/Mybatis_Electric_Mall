@@ -1,8 +1,8 @@
-package com.chen.mapper;
+package com.mall.mapper;
 
 import java.util.List;
 
-import com.chen.pojo.User;
+import com.mall.pojo.User;
 
 public interface UserMapper {
 	

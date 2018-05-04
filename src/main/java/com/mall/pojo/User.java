@@ -1,4 +1,4 @@
-package com.chen.pojo;
+package com.mall.pojo;
 
 import java.io.Serializable;
 
